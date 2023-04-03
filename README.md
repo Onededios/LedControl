@@ -16,3 +16,8 @@ If you create derivative works based on this code, you must share them under the
 ### Questions
 
 If you have any questions about this license or would like to discuss using this code in a different way, please contact me at "joel10olor@gmail.com". 
+
+## Starting with
+### Addressable led strip (WS2812B)
+[Example 1 from AliExpress](https://rb.gy/b2i5) 5.16€/m
+[Example 2 from Amazon](https://rb.gy/b2i5) 23.99€/m
