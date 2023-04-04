@@ -91,12 +91,16 @@ The Arduino IDE includes a text editor, a compiler, and a microcontroller progra
 You can go to the download page directly from this [link](https://www.arduino.cc/en/software)
 
 ## NodeMCU COM Drivers
-For your computer to recognise the ESP8266 board you need to install some drivers for the COM port, you can download them [here](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+For your computer to recognise the ESP8266 board you need to install some drivers for the COM port, you can download them [here](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads).
 
 ## Arduino IDE Configuration
 ### Board Configuration
-1. On **Preferences** go to **Additional Boards Manager URL** and paste this link: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+1. On **Preferences** go to **Additional Boards Manager URL** and paste this link: 
+
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 This will add the repository for the NodeMCU board drivers. 
+
 2. On **Tools** go to **Board:** -> **Boards manager** and search for **esp2866** to **install**.
 3. Go again to **Boards manager** and select **Node MCU 1.0** from **ESP8266 Boards**.
 
