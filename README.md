@@ -101,3 +101,12 @@ This will add the repository for the NodeMCU board drivers.
 3. Go again to **Boards manager** and select **Node MCU 1.0** from **ESP8266 Boards**.
 
 ### Required Libraries
+The required libraries for the code are:
+- ESP8266WiFi
+- WiFiClient
+- ESP8266WebServer
+- FastLED
+You can find em in this repository, following this [link](https://github.com/Onededios/LedControl/tree/main/libraries).
+
+#### Add Libraries to Arduino Library Manager
+To add downloaded libraries to your library manager, you just have to go to your Arduino folder (mine is located in */home/usr/Arduino*) and paste the un-zipped libraries into the folder **libraries** on the Arduino folder. 
