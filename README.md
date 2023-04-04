@@ -106,6 +106,7 @@ The required libraries for the code are:
 - WiFiClient
 - ESP8266WebServer
 - FastLED
+
 You can find em in this repository, following this [link](https://github.com/Onededios/LedControl/tree/main/libraries).
 
 #### Add Libraries to Arduino Library Manager
